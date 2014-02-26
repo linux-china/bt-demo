@@ -1,6 +1,6 @@
 BitTorrent
 ===========================
-BT demo built on ttorrent
+BitTorrent demo built on ttorrent
 
 ### Magnet URI
 
@@ -8,3 +8,6 @@ magnet:?xt=urn:btih:761D825E2A5D38D913F5E6C299E6C8FA67DF6C24&dn=wf8.final.zip&tr
 
 btih is the bt hash info, tr is tracker server and dn is download name.
 
+### References
+
+* ttorrent:  https://github.com/mpetazzoni/ttorrent
