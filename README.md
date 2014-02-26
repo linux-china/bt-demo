@@ -11,3 +11,4 @@ btih is the bt hash info, tr is tracker server and dn is download name.
 ### References
 
 * ttorrent:  https://github.com/mpetazzoni/ttorrent
+* Torrents 101 How Torrent Downloading Works: http://netforbeginners.about.com/od/peersharing/a/torrenthandbook.htm
